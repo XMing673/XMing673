@@ -1,8 +1,8 @@
 ## Hi there 👋
-这里是明宇，你也可以叫我'小明'嗷～
+这里是明宇，你也可以叫我`小明`嗷～
 
 ## 这里是小明的仓库主要用的语言（什
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XMing673&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XMing673&show_icons=true&theme=react&langs_count=10)
 
 
 <!--
