@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 代码使用情况～
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XMing673&show_icons=true&theme=react)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XMing673&show_icons=true&theme=react)
 
 
 <!--
