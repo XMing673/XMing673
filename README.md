@@ -1,8 +1,10 @@
 ## Hi there 👋
 这里是明宇，你也可以叫我`小明`嗷～
 
-## 这里是小明的仓库主要用的语言（什
+## 这里是小明的近期状态
 ![GitHub 状态](https://github-readme-stats.vercel.app/api?username=XMing673&show_icons=true&theme=react)
+
+## 这里是小明的仓库主要用的语言（什
 ![GitHub 语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=XMing673&hide_border=true&layout=compact&langs_count=10&theme=github_dark&card_width=480&locale=cn&exclude_repo=Shell_Hosts_Android,End,Chinese_software)
 
 
