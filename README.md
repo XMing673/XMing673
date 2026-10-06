@@ -26,15 +26,11 @@
 
 ---
 
-## ☕ 明域 Blog · 一言
+## ☕ 来条一言～
 
 <div align="center">
 
 [![随机一言](https://hitokoto.xming.cloud/?encode=svg&max_length=28)](https://blog.xming.cloud)
-
-**[blog.xming.cloud](https://blog.xming.cloud)** · 记录开发、系统折腾、踩坑，以及一些突然冒出来的想法。
-
-<sub>↑ 一言由自己的 <a href="https://github.com/XMing673/hitokoto-cloudflare">hitokoto-cloudflare</a> 动态生成 awa</sub>
 
 </div>
 
@@ -70,50 +66,6 @@
 
 ---
 
-## 🛠️ 一些项目
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌥️ [hitokoto-cloudflare](https://github.com/XMing673/hitokoto-cloudflare)
-
-基于 Cloudflare Pages 的一言 API。  
-简单、轻量，顺便继续折腾边缘网络和 Serverless。
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [CoreExtendedNFC](https://github.com/XMing673/CoreExtendedNFC)
-
-围绕移动设备 NFC 能力进行的一些扩展与实验。  
-属于“系统不给，那就看看还能不能自己想办法”的项目。
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐧 [android_kernel_xiaomi_unicorn](https://github.com/XMing673/android_kernel_xiaomi_unicorn)
-
-Xiaomi 12S Pro（unicorn）相关 Android Kernel 折腾现场。  
-Kernel、配置、编译链和设备适配一个都跑不掉。
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 [twrp_rec_device_xiaomi_unicorn](https://github.com/XMing673/twrp_rec_device_xiaomi_unicorn)
-
-Xiaomi 12S Pro Recovery / Device Tree 相关项目。  
-如果一台设备能解锁，那大概率就会忍不住继续拆下去（笑）。
-
-</td>
-</tr>
-</table>
-
-> GitHub 里还有不少 TWRP / GSI / OpenWrt / Cloudflare / Android 设备相关的小项目和实验仓库，欢迎随便逛逛。
-
----
 
 ## 📊 GitHub
 
