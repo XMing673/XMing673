@@ -26,6 +26,18 @@
 
 ---
 
+## ☕ 明域 Blog · 一言
+
+<div align="center">
+
+[![随机一言](https://hitokoto-cloudflare.pages.dev/?encode=svg&max_length=28)](https://blog.xming.cloud)
+
+**[blog.xming.cloud](https://blog.xming.cloud)** · 记录开发、系统折腾、踩坑，以及一些突然冒出来的想法。
+
+<sub>↑ 一言由自己的 <a href="https://github.com/XMing673/hitokoto-cloudflare">hitokoto-cloudflare</a> 动态生成 awa</sub>
+
+</div>
+
 ## 🔭 最近感兴趣的东西
 
 - 🐧 **Linux / Android** — Kernel、GKI、Recovery、设备树、系统移植与各种奇怪硬件
