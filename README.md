@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![随机一言](https://hitokoto-cloudflare.pages.dev/?encode=svg&max_length=28)](https://blog.xming.cloud)
+[![随机一言](https://hitokoto.xming.cloud/?encode=svg&max_length=28)](https://blog.xming.cloud)
 
 **[blog.xming.cloud](https://blog.xming.cloud)** · 记录开发、系统折腾、踩坑，以及一些突然冒出来的想法。
 
